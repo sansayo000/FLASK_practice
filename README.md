@@ -8,16 +8,19 @@ FLASKの勉強用リポジトリ
 
 環境構築
 Hello World表示
+
 👉 「動いた！」を最優先
 
 🕑 2時間目
 
 ルーティング理解（@app.route）
+
 URLごとに表示変える
 
 🕒 3時間目
 
 JSON返す（API）
+
 request触る
 
 🕓 4時間目
@@ -27,5 +30,7 @@ request触る
 🕔 5時間目
 
 ミニアプリ作る👇
+
 ToDo API
+
 メモAPI
